@@ -27,4 +27,3 @@ g <- g + geom_bar(stat="identity") +
 print(g)
 dev.copy(png, file="plot4.png", height=640, width=480)
 dev.off()
-

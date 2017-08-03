@@ -25,4 +25,3 @@ g <- g + geom_line() +
 print(g)
 dev.copy(png, file="plot3.png", height=640, width=480)
 dev.off()
-
