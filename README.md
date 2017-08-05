@@ -4,7 +4,7 @@ Course offered by Johns Hopkins University through Coursera
 
 Week 1: Electric Power Consumption Data Analysis  
 Week 2: --  
-Week 3: TBF    
+Week 3: Fine particulate matter Data Analysis    
 
 
 *Official Certifcate Link:* https://www.coursera.org/account/accomplishments/verify/DF8A4GHQ2RUU    
