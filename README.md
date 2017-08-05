@@ -2,9 +2,10 @@
 Course offered by Johns Hopkins University through Coursera    
 
 
-Week 1: Electric Power Consumption Data Analysis  
-Week 2: --  
-Week 3: Fine particulate matter Data Analysis    
+Week 1: --  
+Week 2: Activity Monitoring Data  
+Week 3: --  
+Week 4: Strom Data  
 
 
 *Official Certifcate Link:* https://www.coursera.org/account/accomplishments/verify/DF8A4GHQ2RUU    
